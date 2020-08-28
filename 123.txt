@@ -2,10 +2,9 @@ adasdvANew
 ffff
 
 ffffffffffffff
-<<<<<<< HEAD
-=======
 
 AAAA
 
 ZZY
->>>>>>> zzy
+
+New

@@ -1,9 +1,15 @@
-adasdv
+adasdvANew
 ffff
 
 ffffffffffffff
+<<<<<<< HEAD
+=======
 
 AAAA
 
 ZZY
+<<<<<<< HEAD
    
+=======
+>>>>>>> zzy
+>>>>>>> master
